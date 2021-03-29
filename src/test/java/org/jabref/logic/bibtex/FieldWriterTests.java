@@ -35,7 +35,7 @@ class FieldWriterTests {
     }
     
     @Test
-    void normalizeBlankLineInAbstractField() throws Exception {
+    void normalizeNewBlankLineInAbstractField() throws Exception {
         String text = "lorem" + OS.NEWLINE + " ipsum lorem ipsum\nlorem ipsum \rlorem ipsum\r\ntest";
 
         String expected = "{" + "lorem" + OS.NEWLINE + " ipsum lorem ipsum" + OS.NEWLINE
