@@ -24,7 +24,7 @@ It supports you in every step of your research work.
 - Group your research into hierarchical collections and organize research items based on keywords/tags, search terms or your manual assignments
 - Advanced search and filter features
 - Complete and fix bibliographic data by comparing with curated online catalogues such as Google Scholar, Springer or MathSciNet
-- Customizable citation key generator
+- Customizable citation key g
 - Customize and add new metadata fields or reference types
 - Find and merge duplicates
 - Attach related documents: 20 different kinds of documents supported out of the box, completely customizable and extendable
